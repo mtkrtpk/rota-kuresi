@@ -1,0 +1,9 @@
+# OpenFlights raw data files
+*.dat
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
